@@ -56,6 +56,8 @@ Matrix scale_matrix(Matrix a, double k);
 */
 Matrix transpose_matrix(Matrix a);
 
+Matrix get_minor(Matrix a, int row, int col);
+
 /**
  * @brief 矩阵的行列式
  * @param a 矩阵a
