@@ -75,29 +75,29 @@ CMakeFiles/algebra.dir/src/main.c.obj: CMakeFiles/algebra.dir/flags.make
 CMakeFiles/algebra.dir/src/main.c.obj: D:/XLAB暑期实践/program\ basic/yuchenyu_hw1/src/main.c
 CMakeFiles/algebra.dir/src/main.c.obj: CMakeFiles/algebra.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\XLAB暑期实践\program basic\yuchenyu_hw1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/algebra.dir/src/main.c.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/algebra.dir/src/main.c.obj -MF CMakeFiles\algebra.dir\src\main.c.obj.d -o CMakeFiles\algebra.dir\src\main.c.obj -c "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c"
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/algebra.dir/src/main.c.obj -MF CMakeFiles\algebra.dir\src\main.c.obj.d -o CMakeFiles\algebra.dir\src\main.c.obj -c "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c"
 
 CMakeFiles/algebra.dir/src/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/algebra.dir/src/main.c.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c" > CMakeFiles\algebra.dir\src\main.c.i
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c" > CMakeFiles\algebra.dir\src\main.c.i
 
 CMakeFiles/algebra.dir/src/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/algebra.dir/src/main.c.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c" -o CMakeFiles\algebra.dir\src\main.c.s
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\main.c" -o CMakeFiles\algebra.dir\src\main.c.s
 
 CMakeFiles/algebra.dir/src/algebra.c.obj: CMakeFiles/algebra.dir/flags.make
 CMakeFiles/algebra.dir/src/algebra.c.obj: D:/XLAB暑期实践/program\ basic/yuchenyu_hw1/src/algebra.c
 CMakeFiles/algebra.dir/src/algebra.c.obj: CMakeFiles/algebra.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir="D:\XLAB暑期实践\program basic\yuchenyu_hw1\build\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/algebra.dir/src/algebra.c.obj"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/algebra.dir/src/algebra.c.obj -MF CMakeFiles\algebra.dir\src\algebra.c.obj.d -o CMakeFiles\algebra.dir\src\algebra.c.obj -c "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c"
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/algebra.dir/src/algebra.c.obj -MF CMakeFiles\algebra.dir\src\algebra.c.obj.d -o CMakeFiles\algebra.dir\src\algebra.c.obj -c "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c"
 
 CMakeFiles/algebra.dir/src/algebra.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/algebra.dir/src/algebra.c.i"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c" > CMakeFiles\algebra.dir\src\algebra.c.i
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c" > CMakeFiles\algebra.dir\src\algebra.c.i
 
 CMakeFiles/algebra.dir/src/algebra.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/algebra.dir/src/algebra.c.s"
-	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\cc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c" -o CMakeFiles\algebra.dir\src\algebra.c.s
+	C:\PROGRA~2\Dev-Cpp\MinGW32\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "D:\XLAB暑期实践\program basic\yuchenyu_hw1\src\algebra.c" -o CMakeFiles\algebra.dir\src\algebra.c.s
 
 # Object files for target algebra
 algebra_OBJECTS = \
