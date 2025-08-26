@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/XLAB暑期实践/program basic/yuchenyu_hw1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW32\\bin\\gcc.exe   -g -o CMakeFiles\\algebra.dir\\src\\main.c.obj -c \"D:\\XLAB暑期实践\\program basic\\yuchenyu_hw1\\src\\main.c\"",
+  "file": "D:/XLAB暑期实践/program basic/yuchenyu_hw1/src/main.c",
+  "output": "CMakeFiles/algebra.dir/src/main.c.obj"
+},
+{
+  "directory": "D:/XLAB暑期实践/program basic/yuchenyu_hw1/build",
+  "command": "C:\\PROGRA~2\\Dev-Cpp\\MinGW32\\bin\\gcc.exe   -g -o CMakeFiles\\algebra.dir\\src\\algebra.c.obj -c \"D:\\XLAB暑期实践\\program basic\\yuchenyu_hw1\\src\\algebra.c\"",
+  "file": "D:/XLAB暑期实践/program basic/yuchenyu_hw1/src/algebra.c",
+  "output": "CMakeFiles/algebra.dir/src/algebra.c.obj"
+}
+]
